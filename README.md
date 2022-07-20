@@ -6,5 +6,4 @@
 > ⭐ In this project, I implemented different sorting algorithm and their time complexity
 
 ## Author
-
-- [Newton Ombese](https://github.com/NewtonOmbese)
+Phoebe Ogallo
